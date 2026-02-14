@@ -1,1 +1,1 @@
-# Cognitive-Reframing-of-Negative-Thoughts-with-LLM
+# LLM-Based Cognitive Reframing for Negative Thoughts
